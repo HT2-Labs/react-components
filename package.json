@@ -26,7 +26,7 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-focus-trap": "^2.6.0",
-    "styled-components": "^3.3.0"
+    "styled-components": "^5.0.0"
   },
   "devDependencies": {
     "@ht2-labs/semantic-release": "1.1.90",
